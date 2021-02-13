@@ -2,8 +2,8 @@
 # Front matter
 lang: ru-RU
 title: "Отчёт по лабораторной работе №1"
-subtitle: "Создание репозитория"
-author: "Котиева Селима НФИбд-02-18"
+subtitle: "Тема работы: Создание репозитория"
+author: "Студент: Котиева Селима НФИбд-02-18, Преподаватель: Кулябов Дмитрий Сергеевич"
 
 # Formatting
 toc-title: "Содержание"
@@ -46,8 +46,9 @@ header-includes:
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
-# Цель работы
-Ознакомиться с протоколом Git. Создать репозиторий. Создание отчёта на Markdown.
+# Цель работы:
+- Научиться работать с GitHub. 
+- Научиться создавать отчёты на Markdown и конвертировать его в другие форматы.
 
 # Задание
 1. Зарегистрироваться на GitHub.
@@ -60,25 +61,23 @@ header-includes:
 
 # Выполнение лабораторной работы
 1. Регистрируемся на GitHub и создаем репозиторий.
-
-![Создание репозитория](image/scr 1.png){ #fig:001 width=70% }
-
+![Создание репозитория](image/scr 1.png){ #fig:001 width=90% }
 
 3. Создаём отчет на markdown.
-
-![Отчёт на markdown](image/scr 2.png){ #fig:001 width=70% }
-
+![Отчёт на markdown](image/scr 2.png){ #fig:001 width=90% }
 
 4. Конвертируем его в docx и pdf.
-
-![docx файл](image/scr 3.png){ #fig:001 width=70% }
-![pdf файл](image/scr 4.png){ #fig:001 width=70% }
-
+![docx файл](image/scr 3.png){ #fig:001 width=50% }
+![pdf файл](image/scr 4.png){ #fig:001 width=50% }
 
 5. Создаем презентацию.
+![Презентация](image/scr 6.png){ #fig:001 width=90% }
+![Презентация](image/scr 5.png){ #fig:001 width=90% }
 
-![Регистрация на GitHub](image/scr 5.png){ #fig:001 width=70% }
+6. Загружаем отчёт на GitHub и ТУИС.
 
 
 # Выводы
-Ознакомились с протоколом Git. Создали репозиторий. Создали отчёта на Markdown.
+- Ознакомились с протоколом Git. 
+- Создали репозиторий. 
+- Создали отчёт на Markdown и конвертировали его в дргуие форматы.
